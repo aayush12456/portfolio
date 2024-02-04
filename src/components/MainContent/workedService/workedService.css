@@ -1,0 +1,19 @@
+@media only screen and (min-width: 1026px ) and (max-width:1500px) {
+    .imgData{
+        height: 42rem;
+    }
+    .total{
+        margin-top: -6rem;
+    }
+}
+/* @media only screen  and (max-width:1049px) {
+    .total{
+        margin-top: -6rem;
+    }
+} */
+
+@media only screen and (min-width: 1500px ) and (max-width:1800px) {
+    .total{
+        margin-top: -6rem;
+    }
+}

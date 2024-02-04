@@ -1,0 +1,20 @@
+@media only screen and (min-width: 1400px ) and (max-width:1500px) {
+    #buttonData{
+    top:90vh;
+    }
+}
+@media only screen  and (max-width:400px) {
+   .backImg{
+    height: 17rem;
+   }
+}
+@media only screen and (min-width: 400px ) and (max-width:480px) {
+    .backImg{
+        height: 17rem;
+       }
+}
+@media only screen and (min-width: 365px ) and (max-width:400px) {
+    .buttonData{
+        margin-left: -4rem;
+    }
+}
