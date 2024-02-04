@@ -1,11 +1,14 @@
 {
+  "homepage": "https://aayush12456.github.io/personalPortfolio",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy":"npm run build",
     "dev": "vite",
     "build": "tsc && vite build",
+    "deploy":"gh-pages -d dist",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
