@@ -1,7 +1,8 @@
 
 import aayushImg from '../../../assets/mainContent/aayush3.jpg'
 import './contentImage.css'
-const pdf_URL='http://localhost:5173/AayushTapadia.pdf'
+// const pdf_URL='http://localhost:5173/AayushTapadia.pdf'
+const  pdf_URL='https://github.com/aayush12456/personalPortfolio/blob/d4254f3b2b9313e891fb4ffd0bf2149346b1a555/public/AayushTapadia.pdf'
 const ContentImage=()=>{
   const scrollToBottom = () => {
     window.scrollTo({
@@ -51,3 +52,4 @@ export default ContentImage
 
 // font-bold text-5xl absolute top-80 text-white pl-36 left-48 w-1/3 leading-snug tracking-wide 
 // md:text-5xl md:top-40  md:text-center lg:top-80 lg:w-1/3 lg:left-44 lg:pl-32
+
