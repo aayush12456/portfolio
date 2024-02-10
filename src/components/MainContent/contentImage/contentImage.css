@@ -16,5 +16,12 @@
 @media only screen and (min-width: 365px ) and (max-width:400px) {
     .buttonData{
         margin-left: -4rem;
+        
+    }
+}@media only screen and (min-width: 300px ) and (max-width:365px) {
+    #buttonData{
+margin-left: -5rem;
+  
+        
     }
 }
