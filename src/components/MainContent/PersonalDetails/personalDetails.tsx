@@ -19,8 +19,13 @@ export const PersonalDetails = () => {
   <p className="text-[#4d5055] font-normal text-center text-lg pl-3 pt-10 2xl:text-center 2xl:w-2/4 2xl:ml-96">{personalData.content}</p>
 </div>
 <div>
+{personalData.title?<div className="flex gap-3 mt-5 lg:ml-72 ml-4 ">
+<a href={personalData.link}><img src={personalData.img} className="rounded-lg w-44 "/></a>
+<a href={personalData.link}><p className="text-black pt-5 text-lg font-bold">{personalData.title}</p></a>
+</div>:null}
 <h2 className="text-[#24262a] font-bold text-3xl 2xl:pl-72 pl-4 pt-6 leading-normal">Technology</h2>
 <p className="text-[#4d5055] font-normal text-lg pl-4 pt-5  2xl:pl-72">{personalData.technology}</p>
+
 <button
   type="button"
   className="text-white bg-blue-700 w-24 h-12 font-medium text-sm sm:w-28 mt-12 ml-4 2xl:ml-72 border-2 border-transparent transition hover:bg-slate-800 hover:border-white" onClick={backData}

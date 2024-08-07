@@ -41,7 +41,7 @@ return (
                 <div>
                     <img src={_item.img} className="mx-auto 2xl:w-3/5 transition-transform transform hover:scale-110 cursor-pointer " onClick={()=>projectImg(_item)} />
                         <p className="text-[#4d5055] font-bold text-lg pt-4 pl-4 2xl:text-center">For : <span className="font-normal text-lg">{_item.forData}</span  >, Project : <span className="font-normal text-lg ">{_item.Project}</span> </p>
-                
+                     
                 </div>
             )
         })
