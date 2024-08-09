@@ -2,7 +2,7 @@
 import aayushImg from '../../../assets/mainContent/aayush3.jpg'
 import './contentImage.css'
 // const pdf_URL='http://localhost:5173/AayushTapadia.pdf'
-const  pdf_URL='/AayushTapadia.pdf'
+const  pdf_URL='/AayushTapadia(2).pdf'
 const ContentImage=()=>{
   const scrollToBottom = () => {
     window.scrollTo({
