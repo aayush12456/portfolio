@@ -10,7 +10,7 @@ export const PersonalDetails = () => {
   const backData=()=>{
     navigate('/')
   }
-  const apkLink:any="https://drive.google.com/file/d/18faug38ze-1P8WttXQZghsOhgOjbkp3-/view?usp=drive_link"
+  const apkLink:any="https://drive.google.com/file/d/1Mmr3wI6aLdRFkNQuDvciaMQ9z9ocxUKN/view?usp=drive_link"
   return (
  <>
 <div className="bg-[#24262a] h-full ">
