@@ -9,7 +9,7 @@ export const ContactDetails = () => {
   const [message,setMessage]=useState('')
   const handleSubmit=(e:any)=>{
   e.preventDefault()
-  const serviceId='service_y62215s'
+  const serviceId='service_t87oajs'
   const templateId='template_1mblcrs'
   const publicKey='3bvV0zSUyDmusoTIX'
   const data={

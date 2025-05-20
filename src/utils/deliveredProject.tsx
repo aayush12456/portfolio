@@ -12,7 +12,7 @@ export const deliveredProjects=[
         technology:'ReactJs , Firebase , Bootstrap , CustomCSS ,  ',
         forData:'Personal Project',
         Project:'create web based react app which contains all categories of indian movies in a single website ',
-        link:'https://movieproject-e1e03.web.app/Home',
+        link:'https://bollywoodhungama.netlify.app/home',
         title:'Bollywood Hungama'
     },
     {
