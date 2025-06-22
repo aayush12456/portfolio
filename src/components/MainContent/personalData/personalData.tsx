@@ -14,7 +14,7 @@ return(
         </div>
         <div className="pt-7 pl-4 sm:pl-8  md:pl-12 lg:pt-10 lg:mt-0 lg:mb-16  ">
             <p className="text-[#0b36a8] font-semibold leading-6 text-lg">2023-PRESENT</p>
-            <h6 className="text-[#24262a] font-bold leading-normal pt-2 text-lg ">Trainee Web Developer</h6>
+            <h6 className="text-[#24262a] font-bold leading-normal pt-2 text-lg ">Software Developer</h6>
             <p className="text-[#4d5055] font-normal text-lg">Beautiful project for a major digital agency</p>
         </div>
         </div>
